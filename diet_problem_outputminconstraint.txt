@@ -1,0 +1,7 @@
+Status: Optimal
+Servings_Arizona_Green_Tea = 1.0
+Servings_Eggs = 461.8221
+Servings_Kimchi = 2.7358491
+Servings_Shin_Ramen = 1.0
+Servings_Vienna_Sausage = 1.0
+Total Cost of the Diet: $196.93
